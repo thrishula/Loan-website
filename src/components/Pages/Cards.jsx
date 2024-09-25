@@ -135,7 +135,7 @@ function CardApplication() {
           {/* Credit Card Image */}
           <div className="w-1/2 p-4">
             <img
-              src="src/Images/top-view-credit-cards-with-lock-money-bag_23-2148578111.avif" // Replace with actual image
+              src="Images/top-view-credit-cards-with-lock-money-bag_23-2148578111.avif" // Replace with actual image
               alt="Credit Card"
               className="rounded-lg shadow-lg"
             />
@@ -145,7 +145,7 @@ function CardApplication() {
           {/* Debit Card Image */}
           <div className="w-1/2 p-4">
             <img
-              src="src/Images/side-view-woman-with-smartphone-credit-card-purchasing-online_23-2148695670.avif" // Replace with actual image
+              src="Images/side-view-woman-with-smartphone-credit-card-purchasing-online_23-2148695670.avif" // Replace with actual image
               alt="Debit Card"
               className="rounded-lg shadow-lg"
             />
