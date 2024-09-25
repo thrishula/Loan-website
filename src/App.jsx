@@ -25,7 +25,7 @@ function App() {
       <div className="">
       <Navbar user={user} handleLogout={handleLogout} />
       <Routes>
-        <Route path='/minibank' element={<MiniBank/>} />
+        <Route path='/' exact element={<MiniBank/>} />
         <Route path='/Loans' element={<Loans />} />
         <Route path='/credit Tracker' element={<CreditTracker />} />
         <Route path='/cards' element={<Cards />} />
